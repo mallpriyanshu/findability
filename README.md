@@ -1,6 +1,6 @@
 # Findability: A Novel Measure of Information Accessibility
 
-[![arxiv](https://img.shields.io/badge/arXiv-2210.07188-b31b1b.svg)](https://arxiv.org/abs/2310.09508)
+[![arxiv](https://img.shields.io/badge/arXiv-2310.09508-b31b1b.svg)](https://arxiv.org/abs/2310.09508)
 
 ### Citation Information
 
